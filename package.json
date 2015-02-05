@@ -1,6 +1,6 @@
 {
   "name": "waterfront",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "description": "a small but mighty message broker",
   "main": "./waterfront.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "author": "Brock Whitten <brock@chloi.io>",
   "dependencies": {
-    "zmq": "2.4.0",
+    "zmq": "2.10.0",
     "commander":"1.1.1",
     "debug": "0.7.2"
   },
